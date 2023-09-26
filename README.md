@@ -1,2 +1,2 @@
-# .github.io
+# Maximtheexcellent.github.io
 My Game Development Portfolio
